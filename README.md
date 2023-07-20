@@ -1,30 +1,12 @@
 # Clinica-de-Consultas
 
+## Sobre o projeto
 Este é um programa simples de uma clinica de consultas em Java. Ele permite cadastrar pacientes, vizualizar pacientes cadastrados, agendar consultas, vizualizar consultas agendadas e fazer o cancelamento de consultas.
 
-=======================================================================
+## Tecnologias utilizadas
+-> Java
 
-
-FUNCIONALIDADES:
-
-Cadastro de Pacientes: Permite o usuário a cadastrar um novo paciente (nome e o número de contato).
-
-Vizualizar pacientes cadastrados: Permite o usuário vizualizar a lista de pacientes cadastrados.
-
-Agendar consultas: Permite o usuário agendar consulta (data, horário e especialidade).
-
-Vizualizar consultas agendadas: Permite vizualizar a lista de consultas agendadas.
-
-Cancelamento de consultas: Permite o usuário selecionar a consulta que deseja cancelar.
-
-Sair: Encerra o programa.
-
-
-=========================================================================
-
-
-COMO USAR:
-
+## Como executar o projeto
 Execute o programa.
 
 Será exibido um menu com as opções disponíveis.
@@ -36,3 +18,8 @@ Siga as instruções fornecidas pelo programa para realizar as operações desej
 Ao concluir uma operação, pressione Enter para voltar ao menu.
 
 Para encerrar o programa, escolha a opção "Sair".
+
+## Autor 
+Iago Marcelino Pinheiro 
+https://www.linkedin.com/in/iago-pinheiro-5a7979258/
+
