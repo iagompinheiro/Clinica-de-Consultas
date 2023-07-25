@@ -4,7 +4,7 @@
 Este é um programa simples de uma clinica de consultas em Java. Ele permite cadastrar pacientes, vizualizar pacientes cadastrados, agendar consultas, vizualizar consultas agendadas e fazer o cancelamento de consultas.
 
 ## Tecnologias utilizadas
--> Java
+ ● Java
 
 ## Como executar o projeto
 Execute o programa.
